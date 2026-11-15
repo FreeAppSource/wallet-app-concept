@@ -1,0 +1,146 @@
+{
+ "app": "Wallet App Concept",
+ "start": "splash",
+ "screens": [
+  {
+   "slug": "settings",
+   "name": "Settings",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "suggmerchents",
+   "name": "suggMerchents",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 67,
+   "links": 2
+  },
+  {
+   "slug": "points",
+   "name": "points",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 42,
+   "links": 2
+  },
+  {
+   "slug": "wallet",
+   "name": "wallet",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 41,
+   "links": 2
+  },
+  {
+   "slug": "profile",
+   "name": "profile",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 31,
+   "links": 5
+  },
+  {
+   "slug": "offer-details",
+   "name": "offer details",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 45,
+   "links": 2
+  },
+  {
+   "slug": "merchent-page",
+   "name": "merchent page",
+   "page": "UI",
+   "w": 375,
+   "h": 954,
+   "elements": 39,
+   "links": 2
+  },
+  {
+   "slug": "merchents-search",
+   "name": "merchents - search",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 146,
+   "links": 3
+  },
+  {
+   "slug": "merchents",
+   "name": "merchents",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 77,
+   "links": 2
+  },
+  {
+   "slug": "pay-w-merchent-id",
+   "name": "pay w-merchent ID",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 131,
+   "links": 4
+  },
+  {
+   "slug": "pay-fail",
+   "name": "pay - fail",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 68,
+   "links": 5
+  },
+  {
+   "slug": "pay-sucsess",
+   "name": "pay - sucsess",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 63,
+   "links": 5
+  },
+  {
+   "slug": "pay",
+   "name": "pay",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 73,
+   "links": 4
+  },
+  {
+   "slug": "home",
+   "name": "home",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 60,
+   "links": 3
+  },
+  {
+   "slug": "splash",
+   "name": "Splash",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 8,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "dm-sans",
+  "inter"
+ ]
+}
